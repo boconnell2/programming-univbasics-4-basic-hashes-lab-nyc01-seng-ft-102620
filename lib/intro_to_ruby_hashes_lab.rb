@@ -7,10 +7,10 @@ def my_hash
 end
 
 def pioneer
-  new_hash = {:key ==> "Grace Hopper"}
+  new_hash = {:key => "Grace Hopper"}
 end
 
 
 def id_hash_generator(number)
-  hash = { :id ==> number }
+  hash = { :id => number }
 end
